@@ -16,6 +16,7 @@ Light version of original KaMI lib API with transcription evaluation metrics mod
 
 <img src="https://raw.githubusercontent.com/KaMI-tools-project/KaMi-app/master/docs/static/kamiapp_logo.png" width="100" align="left">
 
+
 [KaMI App](https://github.com/KaMI-tools-project/KaMI-app)
 ========
 Web application to evaluate transcription task (HTR/OCR) based on KaMI lib. 
