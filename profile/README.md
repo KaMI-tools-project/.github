@@ -14,9 +14,10 @@ High-level Python API for transcription task evaluation (HTR/OCR), originally ba
 ==========
 Light version of original KaMI lib API with transcription evaluation metrics module only (without Kraken engine).
 
+---------
 
 <img src="https://raw.githubusercontent.com/KaMI-tools-project/KaMi-app/master/docs/static/kamiapp_logo.png" width="100" align="left">
 
-# [KaMI App](https://github.com/KaMI-tools-project/KaMI-app)
-
+[KaMI App](https://github.com/KaMI-tools-project/KaMI-app)
+========
 Web application to evaluate transcription task (HTR/OCR) based on KaMI lib. 
